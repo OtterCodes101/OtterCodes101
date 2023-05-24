@@ -2,7 +2,7 @@
 I'm Otter!
 I first started coding in the 2nd grade when I got an HTML book from the library!
 As well as programming, I play the clarinet!
-
+I'm also fascinated with microcontrollers!
 <!--
 **OtterCodes101/OtterCodes101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
