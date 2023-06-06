@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ottercodes101&label=Profile%20views&color=0e75b6&style=flat" alt="ottercodes101" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ottercodes101&hide=stars,issues" alt="ottercodes101" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/api?username=ottercodes101&hide=stars,issues" alt="ottercodes101" /></a> </p>
 
 - I’m currently working on [Eagler Reborn](https://github.com/EaglerReborn/EaglerReborn)
 
