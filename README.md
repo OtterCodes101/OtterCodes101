@@ -1,6 +1,9 @@
 <h1 align="center">Hello! I'm Otter!</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=00F70E&width=435&lines=I+like+to+code!)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=00F70E&width=435&lines=I+like+to+code!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=000000&width=435&lines=I+like+to+code!" alt="Typing SVG" />
+</picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ottercodes101&label=Profile%20views&color=0e75b6&style=flat" alt="ottercodes101" /> </p>
 
