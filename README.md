@@ -1,5 +1,6 @@
 <h1 align="center">Hello! I'm Otter!</h1>
-<h3 align="center">I like to code!</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=00F70E&width=435&lines=I+like+to+code!)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ottercodes101&label=Profile%20views&color=0e75b6&style=flat" alt="ottercodes101" /> </p>
 
