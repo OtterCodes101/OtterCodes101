@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ottercodes102" alt="ottercodes102" /></a> </p>
 
-- I’m currently working on [EaglerReborn](https://github.com/EaglerReborn/EaglerReborn)
+- I’m currently working on [EaglerReborn](https://github.com/EaglerReborn/reborn)
 
 - How to reach me: **through my replit**
 
