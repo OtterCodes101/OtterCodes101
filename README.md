@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ottercodes101" alt="ottercodes101" /></a> </p>
 
-- I’m currently working on [EaglerReborn](https://github.com/EaglerReborn)
+- I’m currently working on: nothing atm
 
 - How to reach me: **Email me at: otterdev@memeware.net**
 
