@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm OtterDev!</h1>
+<h1 align="center">Hi, I'm Leah!</h1>
 <h3 align="center">I make random stuff im interested in.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ottercodes101&label=Profile%20views&color=0e75b6&style=flat" alt="ottercodes101" /> </p>
