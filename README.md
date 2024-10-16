@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Leah!</h1>
-<h3 align="center">I like to make random shit that I think is cool.</h3>
+<h3 align="center">I like to make things that I think are cool.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ottercodes101&label=Profile%20views&color=0e75b6&style=flat" alt="ottercodes101" /> </p>
 
