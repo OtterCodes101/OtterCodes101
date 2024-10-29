@@ -7,7 +7,7 @@
 
 - How to reach me: **Email me at: leah.anderson4435@proton.me**
 
-You can also reach me at my Discord: `lsusb`
+You can also reach me at my Discord: `leahonbrainrot`
 
 - send me monero if you want: `43uKiuUNUywKMTWmXe1fro5BX7d1zTUdGbmD5uzpBPdKKM1Vb6TPNo5cXmKQcNULJG3KBqPwdNKhf2tuETXU1qA4RwRdc4r`
 
