@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ottercodes101&label=Profile%20views&color=0e75b6&style=flat" alt="ottercodes101" /> </p>
 
-- I’m currently working on: nothing atm
+- I’m currently working on: [High Seas](https://highseas.hackclub.com/)
 
 - How to reach me: **Email me at: leah.anderson4435@proton.me**
 
