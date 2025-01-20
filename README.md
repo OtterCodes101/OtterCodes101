@@ -5,7 +5,7 @@
 
 - I’m currently working on: [High Seas](https://highseas.hackclub.com/)
 
-- How to reach me: **Email me at: leah.anderson4435@proton.me**
+- How to reach me: **Email me at: leah@chromebooks.lol**
 
 You can also reach me at my Discord: `leahonbrainrot`
 
