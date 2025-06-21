@@ -2,6 +2,7 @@
 <h3 align="center">I like to make things that I think are cool.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ottercodes101&label=Profile%20views&color=0e75b6&style=flat" alt="ottercodes101" /> </p>
+<p align="left"> <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=3273&api_domain=hackatime.hackclub.com&theme=catppuccin_mocha&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="my hackatime stats" /> </p>
 
 - I’m currently working on: nothing atm
 
